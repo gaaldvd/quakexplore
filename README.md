@@ -47,7 +47,7 @@ Set the starting script to executable:
 
 Additionally, if you want to stay up-to-date or participate in the development, you will need [git](https://git-scm.com/downloads) and you can clone the repo:
 
-`> git clone https://github.com/strugamano/quakexplore.git`
+`> git clone https://github.com/gaaldvd/quakexplore.git`
 
 ### usage
 
