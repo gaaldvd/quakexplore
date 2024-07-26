@@ -1,6 +1,6 @@
-/.directory
+.directory
 /*/.directory
-/.gitignore
-/.idea
-/__pycache__
+.vscode
+.idea
+__pycache__
 /*/__pycache__
